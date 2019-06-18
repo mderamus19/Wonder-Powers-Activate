@@ -49,9 +49,4 @@ function disableAllFunction(event) {
     disablePower[i].classList.replace("enabled", "disabled");
   }
 }
-// function disableAllFunction(event) {
-// document.querySelectorAll("#deactivate-all").classList.replace("enabled","disabled");
 
-//   document.querySelector("#xray").classList.remove("disabled");
-//   document.querySelector("#xray").classList.add("enabled");
-// }
